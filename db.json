@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "id": "0b853849-2c89-4f90-9224-307faed41b99",
+      "name": "sam",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": "0382a32c-0564-4c16-a95b-db076c8e5c66",
+      "name": "Prem",
+      "email": "prem@gmail.com"
+    },
+    {
+      "id": "a5489b94-1b05-47f4-a6bd-69ed0ab40fad",
+      "name": "Eminem",
+      "email": "eminem@gmail.com"
+    },
+    {
+      "id": "8b19402e-d9b0-45d9-adfb-ceede5359417",
+      "name": "slimshady",
+      "email": "slimshady@outlook.com"
+    },
+    {
+      "id": "9d699f3b-1bdd-41a7-96ba-ed059fa9bbf7",
+      "name": "Eminem",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": "dcf6a42c-685d-490d-ba94-864c923782e6",
+      "name": "SlimShady",
+      "email": "eminem@gmail.comsdfs"
+    },
+    {
+      "id": "df07977b-f517-461b-9a2b-a9a8734d11ef",
+      "name": "MarshalMathers",
+      "email": "marshalmathers@gmail.com"
+    },
+    {
+      "id": "e57b397c-c780-45e5-ab2c-fb0e1802b5cb",
+      "name": "Linkin Park",
+      "email": "linkinpark@gmail.com"
+    },
+    {
+      "id": "9057116b-c837-4a8d-8ca3-0da790d1fe35",
+      "name": "popopopop1414",
+      "email": "popopopop1414@testr.com"
+    }
+  ]
+}
